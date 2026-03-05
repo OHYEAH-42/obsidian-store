@@ -22,6 +22,10 @@ desktop.ini
 # 忽略附件文件夹（按需启用）
 # attachments/
 
+
+# 忽略所有PDF文件
+*.pdf
+
 # 特殊配置：保留核心插件配置（可选）
 !.obsidian/plugins/  # 保留插件目录
 !.obsidian/themes/   # 保留主题目录
