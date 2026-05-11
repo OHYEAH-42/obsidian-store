@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "76a5e447d7497adb",
+        "id": "3368a903da69e402",
         "type": "tabs",
         "children": [
           {
-            "id": "096858566487947f",
+            "id": "d3a5ce569cb342fb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TEXT.md",
+                "file": "读书笔记/龙书阅读.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TEXT"
+              "title": "龙书阅读"
             }
           }
         ]
@@ -34,19 +34,6 @@
         "id": "16bc26a5a7aabd3f",
         "type": "tabs",
         "children": [
-          {
-            "id": "bbe4be0a5f043a5a",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "文件列表"
-            }
-          },
           {
             "id": "95c0a108115021cf",
             "type": "leaf",
@@ -73,12 +60,26 @@
               "icon": "lucide-bookmark",
               "title": "书签"
             }
+          },
+          {
+            "id": "3e69431a2b6cc1e3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 296.5
   },
   "right": {
     "id": "1d0959161e7ab159",
@@ -113,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2号测试.md",
+                "file": "龙书阅读.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "2号测试 的出链列表"
+              "title": "龙书阅读 的出链列表"
             }
           },
           {
@@ -156,17 +157,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2号测试.md",
-                "followCursor": false,
-                "showSearch": false,
+                "file": "龙书阅读.md",
+                "followCursor": true,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2号测试 的大纲"
+              "title": "龙书阅读 的大纲"
             }
           },
           {
-            "id": "b412656025774ea3",
+            "id": "50101818fafa8558",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -192,25 +193,63 @@
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "remotely-save:Remotely Save": false,
+      "workspaces:管理工作区布局": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "096858566487947f",
+  "active": "d3a5ce569cb342fb",
   "lastOpenFiles": [
-    "README.en.md",
-    "TEXT.md",
-    "2号测试.md",
-    "README.md",
-    "Excalidraw/Drawing 2026-03-04 16.47.16.excalidraw.md",
-    "课件/计算机组成原理实验设计/计算机组成原理课程设计-2024级主题1.pdf",
+    "编译原理 原理、技术与工具 ( etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf.md",
+    "读书笔记/龙书阅读.md",
     "电子书库/编译原理/编译原理 原理、技术与工具 ( etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
-    "2024徐涛考研政治核心考案.pdf",
-    "课件/计算机组成原理实验设计",
-    "课件",
-    "电子书库/编译原理/Operating Systems Three Easy Pieces ( etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
-    "电子书库/编译原理/Compilers Pearson New International Edition Principles, Techniques, and Tools (A.V. Aho, Monica S Lam, R. Sethi etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
-    "电子书库/编译原理",
-    "电子书库/物理学/物理学 （第七版） 下册 (东南大学等七所工科院校, 马文蔚, 解希顺, 周雨青) (Z-Library).pdf",
-    "电子书库/物理学"
+    "学习笔记/编译原理/Stanford CS143 Compilers/Stanford CS143 Compilers.md",
+    "图片/Pasted image 20260414225024.png",
+    "学习笔记/Python/CS61A/CS61A.md",
+    "图片/Pasted image 20260418125350.png",
+    "项目学习/尚硅谷 尚庭公寓/尚硅谷Java项目之尚庭公寓.md",
+    "项目学习/尚硅谷 尚庭公寓.rar",
+    "项目学习/尚硅谷 尚庭公寓/尚硅谷Linux基础.md",
+    "未命名.base",
+    "项目学习/尚硅谷 尚庭公寓",
+    "项目学习",
+    "Pasted image 20260414230412.png",
+    "图片/Pasted image 20260414232026.png",
+    "图片/Pasted image 20260414231344.png",
+    "图片/Pasted image 20260414231133.png",
+    "图片/Pasted image 20260414230911.png",
+    "图片/Pasted image 20260414230744.png",
+    "图片/Pasted image 20260414230658.png",
+    "图片/Pasted image 20260414230412.png",
+    "图片",
+    "新建文件夹",
+    "项目学习/尚硅谷 尚庭公寓/origin/项目示意图.drawio",
+    "项目学习/尚硅谷 尚庭公寓/origin/项目模型-逻辑模型.drawio",
+    "项目学习/尚硅谷 尚庭公寓/origin/项目模型-逻辑模型-租约信息.drawio",
+    "学习笔记/Vim/Vim.md",
+    "Obisidian/Vim command.md",
+    "学习笔记/MIT-Missing-Semester/MIT-Missing-Semester.md",
+    "学习笔记/数据库/CMU 15-445_Database Systems/CMU 15-445_ Database Systems - CS 自学指南.md",
+    "Obisidian/Obsidian command.md",
+    "学习笔记/CMU 15-445_ Database Systems - CS 自学指南.md",
+    "学习笔记/simpread-CMU 15-445_ Database Systems - CS 自学指南.md",
+    "学习笔记/Vim/编辑器 (Vim) · the missing semester of your cs education.md",
+    "学习笔记/Vim/Obsidian 的 Vim 插件设置配置全流程 -- 脱离鼠标拥抱 Vim 神教.md",
+    "编辑器 (Vim) · the missing semester of your cs eucation.md",
+    "学习笔记/Vim/simpread-Obsidian 的 Vim 插件设置配置全流程 -- 脱离鼠标拥抱 Vim 神教.md",
+    "学习笔记/Stanford CS143 Compilers/Stanford CS143 Compilers学习笔记.md",
+    "学习笔记/CS61A/CS61A学习笔记.md",
+    "电子书库/编程基础语言/Python/SICP Python 版，CS61A 教材中文翻译.md",
+    "编译原理 原理、技术与工具 ( etc.) (z-library.sk, 1lib.sk, z-lib.sk).md",
+    "未命名 1.canvas",
+    "未命名.canvas",
+    "README.en.md",
+    "2号测试.md",
+    "TEXT.md",
+    "README.md",
+    "Excalidraw/Drawing 2026-03-04 16.47.16.excalidraw.md"
   ]
 }

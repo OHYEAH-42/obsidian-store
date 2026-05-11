@@ -77,12 +77,12 @@
   "highlightOnHoverBacklinkPane": true,
   "backlinkHoverColor": "",
   "colors": {
-    "Yellow": "#ffd000",
-    "Red": "#ea5252",
-    "Note": "#086ddd",
-    "Important": "#bb61e5"
+    "Important": "#bb61e5",
+    "定义": "#086ddd",
+    "Tips": "#ffd000",
+    "重要": "#ea5252"
   },
-  "defaultColor": "",
+  "defaultColor": "Tips",
   "defaultColorPaletteItemIndex": 0,
   "syncColorPaletteItem": true,
   "syncDefaultColorPaletteItem": false,
