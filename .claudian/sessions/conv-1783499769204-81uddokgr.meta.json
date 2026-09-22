@@ -1,0 +1,24 @@
+{
+  "id": "conv-1783499769204-81uddokgr",
+  "providerId": "claude",
+  "title": "Debug potential infinite loop",
+  "titleGenerationStatus": "success",
+  "createdAt": 1783499769204,
+  "updatedAt": 1783503137195,
+  "lastResponseAt": 1783499779206,
+  "sessionId": "42481c0d-eda7-438d-adc1-44aef6931854",
+  "providerState": {
+    "providerSessionId": "42481c0d-eda7-438d-adc1-44aef6931854"
+  },
+  "currentNote": "Permanent/LR.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 19384,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 19384,
+    "percentage": 10,
+    "contextWindowIsAuthoritative": true
+  }
+}

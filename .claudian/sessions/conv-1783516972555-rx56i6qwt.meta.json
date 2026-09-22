@@ -1,0 +1,24 @@
+{
+  "id": "conv-1783516972555-rx56i6qwt",
+  "providerId": "claude",
+  "title": "Write pseudocode",
+  "titleGenerationStatus": "success",
+  "createdAt": 1783516972555,
+  "updatedAt": 1789900660224,
+  "lastResponseAt": 1783552096984,
+  "sessionId": "aeafa3f0-a930-4041-8ce1-32c0cf993183",
+  "providerState": {
+    "providerSessionId": "aeafa3f0-a930-4041-8ce1-32c0cf993183"
+  },
+  "currentNote": "梯度.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 767,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 76928,
+    "contextWindow": 200000,
+    "contextTokens": 77695,
+    "percentage": 39,
+    "contextWindowIsAuthoritative": true
+  }
+}

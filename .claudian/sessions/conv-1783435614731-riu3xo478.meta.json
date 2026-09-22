@@ -1,0 +1,24 @@
+{
+  "id": "conv-1783435614731-riu3xo478",
+  "providerId": "claude",
+  "title": "Explain database normalization concepts",
+  "titleGenerationStatus": "success",
+  "createdAt": 1783435614731,
+  "updatedAt": 1783490770001,
+  "lastResponseAt": 1783436569758,
+  "sessionId": "90d11575-f87b-4c38-af3e-00abf901fe67",
+  "providerState": {
+    "providerSessionId": "90d11575-f87b-4c38-af3e-00abf901fe67"
+  },
+  "currentNote": "未命名.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 24,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 51968,
+    "contextWindow": 200000,
+    "contextTokens": 51992,
+    "percentage": 26,
+    "contextWindowIsAuthoritative": true
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "conv-1783144030094-9wj1va624",
+  "providerId": "claude",
+  "title": "Supplement note content",
+  "titleGenerationStatus": "success",
+  "createdAt": 1783144030096,
+  "updatedAt": 1783144139354,
+  "lastResponseAt": 1783144059554,
+  "sessionId": "73835982-80ee-4f2b-bb61-9bb751fd4bcc",
+  "providerState": {
+    "providerSessionId": "73835982-80ee-4f2b-bb61-9bb751fd4bcc"
+  },
+  "currentNote": "正则文法.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 2653,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 19328,
+    "contextWindow": 200000,
+    "contextTokens": 21981,
+    "percentage": 11,
+    "contextWindowIsAuthoritative": true
+  }
+}

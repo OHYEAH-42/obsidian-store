@@ -1,0 +1,24 @@
+{
+  "id": "conv-1783172465378-2v2bijmzm",
+  "providerId": "claude",
+  "title": "Finish writing this note",
+  "titleGenerationStatus": "success",
+  "createdAt": 1783172465378,
+  "updatedAt": 1783175063440,
+  "lastResponseAt": 1783172485388,
+  "sessionId": "b7d74efc-dd06-4263-a6f7-238230e1684b",
+  "providerState": {
+    "providerSessionId": "b7d74efc-dd06-4263-a6f7-238230e1684b"
+  },
+  "currentNote": "信号量.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 83,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 21120,
+    "contextWindow": 200000,
+    "contextTokens": 21203,
+    "percentage": 11,
+    "contextWindowIsAuthoritative": true
+  }
+}

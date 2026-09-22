@@ -1,0 +1,24 @@
+{
+  "id": "conv-1783000951370-k9hyv3lmu",
+  "providerId": "claude",
+  "title": "Generate quadruples with true/false exit chains",
+  "titleGenerationStatus": "success",
+  "createdAt": 1783000951370,
+  "updatedAt": 1783003345390,
+  "lastResponseAt": 1783001048604,
+  "sessionId": "3aa9c7b8-29b9-4202-b212-39d739868189",
+  "providerState": {
+    "providerSessionId": "3aa9c7b8-29b9-4202-b212-39d739868189"
+  },
+  "currentNote": "用做控制语句中条件表达式的翻译.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 3328,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 30592,
+    "contextWindow": 200000,
+    "contextTokens": 33920,
+    "percentage": 17,
+    "contextWindowIsAuthoritative": true
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "conv-1783405806504-bldq8t1xz",
+  "providerId": "claude",
+  "title": "Compute First sets for grammar in C++",
+  "titleGenerationStatus": "success",
+  "createdAt": 1783405806504,
+  "updatedAt": 1783423988234,
+  "lastResponseAt": 1783405887866,
+  "sessionId": "3ede0b2f-2e80-41fe-8f7d-454a19783de4",
+  "providerState": {
+    "providerSessionId": "3ede0b2f-2e80-41fe-8f7d-454a19783de4"
+  },
+  "currentNote": "FIRST 集的代码实现.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 19130,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 19130,
+    "percentage": 10,
+    "contextWindowIsAuthoritative": true
+  }
+}

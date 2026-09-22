@@ -1,0 +1,23 @@
+{
+  "id": "conv-1783170238996-hhic1eyjz",
+  "providerId": "claude",
+  "title": "补充笔记定义",
+  "titleGenerationStatus": "success",
+  "createdAt": 1783170238996,
+  "updatedAt": 1783170587336,
+  "lastResponseAt": 1783170571640,
+  "sessionId": "770dc5bc-dcbb-43af-a85b-086cd1f58822",
+  "providerState": {
+    "providerSessionId": "770dc5bc-dcbb-43af-a85b-086cd1f58822"
+  },
+  "currentNote": "临界区.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 149,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 20608,
+    "contextWindow": 200000,
+    "contextTokens": 20757,
+    "percentage": 10
+  }
+}

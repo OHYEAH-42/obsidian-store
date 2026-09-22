@@ -1,0 +1,24 @@
+{
+  "id": "conv-1782968834040-ur1aikf6t",
+  "providerId": "claude",
+  "title": "Check logical notation correctness",
+  "titleGenerationStatus": "success",
+  "createdAt": 1782968834042,
+  "updatedAt": 1782975115121,
+  "lastResponseAt": 1782968864088,
+  "sessionId": "c797aa9c-8175-45d1-9b0f-a7b92f7d2bef",
+  "providerState": {
+    "providerSessionId": "c797aa9c-8175-45d1-9b0f-a7b92f7d2bef"
+  },
+  "currentNote": "Permanent/四元组.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 568,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 19456,
+    "contextWindow": 200000,
+    "contextTokens": 20024,
+    "percentage": 10,
+    "contextWindowIsAuthoritative": true
+  }
+}

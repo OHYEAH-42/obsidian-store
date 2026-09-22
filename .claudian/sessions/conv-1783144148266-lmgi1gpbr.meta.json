@@ -1,0 +1,24 @@
+{
+  "id": "conv-1783144148266-lmgi1gpbr",
+  "providerId": "claude",
+  "title": "Complete note with properties",
+  "titleGenerationStatus": "success",
+  "createdAt": 1783144148266,
+  "updatedAt": 1783147778733,
+  "lastResponseAt": 1783146421277,
+  "sessionId": "ff12eb89-4eb8-4c65-8adf-9f3e7528bd98",
+  "providerState": {
+    "providerSessionId": "ff12eb89-4eb8-4c65-8adf-9f3e7528bd98"
+  },
+  "currentNote": "正则表达式与正则文法的相互转换方法.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 790,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 33536,
+    "contextWindow": 200000,
+    "contextTokens": 34326,
+    "percentage": 17,
+    "contextWindowIsAuthoritative": true
+  }
+}

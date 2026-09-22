@@ -1,0 +1,24 @@
+{
+  "id": "conv-1783237995016-ei97zgyj6",
+  "providerId": "claude",
+  "title": "Explain code snippet",
+  "titleGenerationStatus": "success",
+  "createdAt": 1783237995016,
+  "updatedAt": 1783238018128,
+  "lastResponseAt": 1783238018128,
+  "sessionId": "eef5e2af-705d-4e40-847c-6190f311c739",
+  "providerState": {
+    "providerSessionId": "eef5e2af-705d-4e40-847c-6190f311c739"
+  },
+  "currentNote": "hopcroft算法.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 893,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 19328,
+    "contextWindow": 200000,
+    "contextTokens": 20221,
+    "percentage": 10,
+    "contextWindowIsAuthoritative": true
+  }
+}

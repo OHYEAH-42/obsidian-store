@@ -1,0 +1,24 @@
+{
+  "id": "conv-1783151578634-4os8bsxb3",
+  "providerId": "claude",
+  "title": "Explain NfaGraph updateState method",
+  "titleGenerationStatus": "success",
+  "createdAt": 1783151578635,
+  "updatedAt": 1783170220721,
+  "lastResponseAt": 1783156982788,
+  "sessionId": "e2e5be4f-a89a-465d-b2fd-09a4bd11632b",
+  "providerState": {
+    "providerSessionId": "e2e5be4f-a89a-465d-b2fd-09a4bd11632b"
+  },
+  "currentNote": "正则表达式转NFA的代码实现.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 2227,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 44928,
+    "contextWindow": 200000,
+    "contextTokens": 47155,
+    "percentage": 24,
+    "contextWindowIsAuthoritative": true
+  }
+}

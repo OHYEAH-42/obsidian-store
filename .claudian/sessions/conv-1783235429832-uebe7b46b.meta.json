@@ -1,0 +1,24 @@
+{
+  "id": "conv-1783235429832-uebe7b46b",
+  "providerId": "claude",
+  "title": "Explain function purpose",
+  "titleGenerationStatus": "success",
+  "createdAt": 1783235429832,
+  "updatedAt": 1783319929522,
+  "lastResponseAt": 1783238786355,
+  "sessionId": "75b43f49-dd6e-4dc3-8da9-0dea1ea32c68",
+  "providerState": {
+    "providerSessionId": "75b43f49-dd6e-4dc3-8da9-0dea1ea32c68"
+  },
+  "currentNote": "DFA最小化的代码实现.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 618,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 26496,
+    "contextWindow": 200000,
+    "contextTokens": 27114,
+    "percentage": 14,
+    "contextWindowIsAuthoritative": false
+  }
+}

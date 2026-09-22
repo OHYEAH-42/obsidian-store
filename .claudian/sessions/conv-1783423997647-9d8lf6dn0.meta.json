@@ -1,0 +1,24 @@
+{
+  "id": "conv-1783423997647-9d8lf6dn0",
+  "providerId": "claude",
+  "title": "Review pseudocode correctness",
+  "titleGenerationStatus": "success",
+  "createdAt": 1783423997647,
+  "updatedAt": 1783426853304,
+  "lastResponseAt": 1783424174994,
+  "sessionId": "3a44f1ca-63cb-416a-ab16-03e10270ecd9",
+  "providerState": {
+    "providerSessionId": "3a44f1ca-63cb-416a-ab16-03e10270ecd9"
+  },
+  "currentNote": "Permanent/FOLLOW 集.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 34,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 29184,
+    "contextWindow": 200000,
+    "contextTokens": 29218,
+    "percentage": 15,
+    "contextWindowIsAuthoritative": true
+  }
+}

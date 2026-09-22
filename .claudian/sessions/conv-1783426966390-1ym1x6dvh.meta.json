@@ -1,0 +1,24 @@
+{
+  "id": "conv-1783426966390-1ym1x6dvh",
+  "providerId": "claude",
+  "title": "Write relational algebra queries for SPJ schema",
+  "titleGenerationStatus": "success",
+  "createdAt": 1783426966391,
+  "updatedAt": 1783428948215,
+  "lastResponseAt": 1783428610950,
+  "sessionId": "fd586d86-dd74-4903-8419-e13a034303bb",
+  "providerState": {
+    "providerSessionId": "fd586d86-dd74-4903-8419-e13a034303bb"
+  },
+  "currentNote": "用关系代数表达查询问题.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 723,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 31744,
+    "contextWindow": 200000,
+    "contextTokens": 32467,
+    "percentage": 16,
+    "contextWindowIsAuthoritative": true
+  }
+}

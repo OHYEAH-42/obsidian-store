@@ -196,7 +196,7 @@ nmap th :tabprev<CR>
 
 ```
 
-这个可以实现 tab 页的切换，但是需要首先安装 [Tab Switcher](https://zhida.zhihu.com/search?content_id=250075925&content_type=Article&match_order=1&q=Tab+Switcher&zd_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJ6aGlkYV9zZXJ2ZXIiLCJleHAiOjE3NzM5Mjg3OTgsInEiOiJUYWIgU3dpdGNoZXIiLCJ6aGlkYV9zb3VyY2UiOiJlbnRpdHkiLCJjb250ZW50X2lkIjoyNTAwNzU5MjUsImNvbnRlbnRfdHlwZSI6IkFydGljbGUiLCJtYXRjaF9vcmRlciI6MSwiemRfdG9rZW4iOm51bGx9.0Yvrf1nu4FlJBBgXqN-HL8jD1TLZ8pYHkA2eQLemrEU&zhida_source=entity) 插件原名为 cycle through panes，如果之前安装过 cycle through panes 不需要再进行额外的设置了，安装步骤参考 [[Obsidian 插件安装教程]]，本文同样提供了对应的插件下载，请搜索公众号 < 文件夹的知识圈 > 并回复 < 插件下载 > 在打开链接的文件夹中选择 `cycle-through-panes` 对，你没有看错这就是最新版的 Tab Switcher，通过官方社区下载的时候需要搜索 Tab Sitcher，下载完成后在 `.obsidian/plugins` 下的名字还是 `cycle-through-panes`
+这个可以实现 tab 页的切换，但是需要首先安装 [Tab Switcher](https://zhida.zhihu.com/search?content_id=250075925&content_type=Article&match_order=1&q=Tab+Switcher&zd_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJ6aGlkYV9zZXJ2ZXIiLCJleHAiOjE3NzM5Mjg3OTgsInEiOiJUYWIgU3dpdGNoZXIiLCJ6aGlkYV9zb3VyY2UiOiJlbnRpdHkiLCJjb250ZW50X2lkIjoyNTAwNzU5MjUsImNvbnRlbnRfdHlwZSI6IkFydGljbGUiLCJtYXRjaF9vcmRlciI6MSwiemRfdG9rZW4iOm51bGx9.0Yvrf1nu4FlJBBgXqN-HL8jD1TLZ8pYHkA2eQLemrEU&zhida_source=entity) 插件原名为 cycle through panes，如果之前安装过 cycle through panes 不需要再进行额外的设置了，安装步骤参考 Obsidian 插件安装教程，本文同样提供了对应的插件下载，请搜索公众号 < 文件夹的知识圈 > 并回复 < 插件下载 > 在打开链接的文件夹中选择 `cycle-through-panes` 对，你没有看错这就是最新版的 Tab Switcher，通过官方社区下载的时候需要搜索 Tab Sitcher，下载完成后在 `.obsidian/plugins` 下的名字还是 `cycle-through-panes`
 
 ps: 这里可能有同学会疑问，为什么 Tab Switcher 本身已经提供了标签页切换了还需要设置，其实就是为了在出现按键冲突的时候提供了一个选择，可以根据自己的习惯选择
 

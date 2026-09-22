@@ -1,0 +1,24 @@
+{
+  "id": "conv-1783226213338-zu8aacmo6",
+  "providerId": "claude",
+  "title": "Explain why DFA states are sets of NFA states",
+  "titleGenerationStatus": "success",
+  "createdAt": 1783226213339,
+  "updatedAt": 1783235346705,
+  "lastResponseAt": 1783233854398,
+  "sessionId": "1292115d-c2c3-49e5-93f6-46b4bd985f79",
+  "providerState": {
+    "providerSessionId": "1292115d-c2c3-49e5-93f6-46b4bd985f79"
+  },
+  "currentNote": "NFA转DFA的代码实现.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 752,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 26752,
+    "contextWindow": 200000,
+    "contextTokens": 27504,
+    "percentage": 14,
+    "contextWindowIsAuthoritative": true
+  }
+}

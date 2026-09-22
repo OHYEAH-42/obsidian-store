@@ -1,0 +1,24 @@
+{
+  "id": "conv-1782963340691-d9qve6rbx",
+  "providerId": "claude",
+  "title": "Read current document",
+  "titleGenerationStatus": "success",
+  "createdAt": 1782963340697,
+  "updatedAt": 1783238108393,
+  "lastResponseAt": 1782963764797,
+  "sessionId": "7ab61cd5-5aba-49a2-86a7-9cace5099719",
+  "providerState": {
+    "providerSessionId": "7ab61cd5-5aba-49a2-86a7-9cace5099719"
+  },
+  "currentNote": "Permanent/表达式转化为逆波兰式.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 91,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 43648,
+    "contextWindow": 200000,
+    "contextTokens": 43739,
+    "percentage": 22,
+    "contextWindowIsAuthoritative": true
+  }
+}

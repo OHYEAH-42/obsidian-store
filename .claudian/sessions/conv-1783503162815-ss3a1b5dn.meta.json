@@ -1,0 +1,24 @@
+{
+  "id": "conv-1783503162815-ss3a1b5dn",
+  "providerId": "claude",
+  "title": "Check SLR(1) grammar validation function",
+  "titleGenerationStatus": "success",
+  "createdAt": 1783503162815,
+  "updatedAt": 1783514592082,
+  "lastResponseAt": 1783505511376,
+  "sessionId": "d4a2936e-993b-41b5-a9c7-ceb314e7a63a",
+  "providerState": {
+    "providerSessionId": "d4a2936e-993b-41b5-a9c7-ceb314e7a63a"
+  },
+  "currentNote": "Permanent/LR系列文法判断算法.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 901,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 57088,
+    "contextWindow": 200000,
+    "contextTokens": 57989,
+    "percentage": 29,
+    "contextWindowIsAuthoritative": true
+  }
+}

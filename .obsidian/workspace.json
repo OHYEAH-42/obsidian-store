@@ -4,24 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "3368a903da69e402",
+        "id": "7d07b2c1d93a10c3",
         "type": "tabs",
         "children": [
           {
-            "id": "d3a5ce569cb342fb",
+            "id": "bdfc47dfd14bfafc",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
+            }
+          },
+          {
+            "id": "e8b4e647537c0a3a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "读书笔记/龙书阅读.md",
+                "file": "损失函数.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "龙书阅读"
+              "title": "损失函数"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -35,12 +47,27 @@
         "type": "tabs",
         "children": [
           {
+            "id": "bbe4be0a5f043a5a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
             "id": "95c0a108115021cf",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:编译原理",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -60,22 +87,8 @@
               "icon": "lucide-bookmark",
               "title": "书签"
             }
-          },
-          {
-            "id": "3e69431a2b6cc1e3",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "文件列表"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -157,17 +170,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "龙书阅读.md",
+                "file": "损失函数.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "龙书阅读 的大纲"
+              "title": "大纲"
             }
           },
           {
-            "id": "50101818fafa8558",
+            "id": "8dbb516f4abea8c9",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -181,7 +194,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 401.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,60 +209,59 @@
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
-      "remotely-save:Remotely Save": false,
       "workspaces:管理工作区布局": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d3a5ce569cb342fb",
+  "active": "e8b4e647537c0a3a",
   "lastOpenFiles": [
-    "编译原理 原理、技术与工具 ( etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf.md",
-    "读书笔记/龙书阅读.md",
-    "电子书库/编译原理/编译原理 原理、技术与工具 ( etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
-    "学习笔记/编译原理/Stanford CS143 Compilers/Stanford CS143 Compilers.md",
-    "图片/Pasted image 20260414225024.png",
-    "学习笔记/Python/CS61A/CS61A.md",
-    "图片/Pasted image 20260418125350.png",
-    "项目学习/尚硅谷 尚庭公寓/尚硅谷Java项目之尚庭公寓.md",
-    "项目学习/尚硅谷 尚庭公寓.rar",
-    "项目学习/尚硅谷 尚庭公寓/尚硅谷Linux基础.md",
-    "未命名.base",
-    "项目学习/尚硅谷 尚庭公寓",
-    "项目学习",
-    "Pasted image 20260414230412.png",
-    "图片/Pasted image 20260414232026.png",
-    "图片/Pasted image 20260414231344.png",
-    "图片/Pasted image 20260414231133.png",
-    "图片/Pasted image 20260414230911.png",
-    "图片/Pasted image 20260414230744.png",
-    "图片/Pasted image 20260414230658.png",
-    "图片/Pasted image 20260414230412.png",
-    "图片",
-    "新建文件夹",
-    "项目学习/尚硅谷 尚庭公寓/origin/项目示意图.drawio",
-    "项目学习/尚硅谷 尚庭公寓/origin/项目模型-逻辑模型.drawio",
-    "项目学习/尚硅谷 尚庭公寓/origin/项目模型-逻辑模型-租约信息.drawio",
-    "学习笔记/Vim/Vim.md",
-    "Obisidian/Vim command.md",
-    "学习笔记/MIT-Missing-Semester/MIT-Missing-Semester.md",
-    "学习笔记/数据库/CMU 15-445_Database Systems/CMU 15-445_ Database Systems - CS 自学指南.md",
-    "Obisidian/Obsidian command.md",
-    "学习笔记/CMU 15-445_ Database Systems - CS 自学指南.md",
-    "学习笔记/simpread-CMU 15-445_ Database Systems - CS 自学指南.md",
-    "学习笔记/Vim/编辑器 (Vim) · the missing semester of your cs education.md",
-    "学习笔记/Vim/Obsidian 的 Vim 插件设置配置全流程 -- 脱离鼠标拥抱 Vim 神教.md",
-    "编辑器 (Vim) · the missing semester of your cs eucation.md",
-    "学习笔记/Vim/simpread-Obsidian 的 Vim 插件设置配置全流程 -- 脱离鼠标拥抱 Vim 神教.md",
-    "学习笔记/Stanford CS143 Compilers/Stanford CS143 Compilers学习笔记.md",
-    "学习笔记/CS61A/CS61A学习笔记.md",
-    "电子书库/编程基础语言/Python/SICP Python 版，CS61A 教材中文翻译.md",
-    "编译原理 原理、技术与工具 ( etc.) (z-library.sk, 1lib.sk, z-lib.sk).md",
-    "未命名 1.canvas",
+    "激活函数.md",
+    "多层感知器.md",
+    "前向传播.md",
+    "权重.md",
+    "损失函数.md",
+    "神经网络.md",
+    "反向传播.md",
+    "优化器.md",
+    "梯度.md",
+    "神经元.md",
+    "偏置.md",
+    "链式法则.md",
+    "层.md",
+    "AGENTS.md",
+    "Permanent/子集和问题.md",
+    "Permanent/正则文法.md",
+    "Permanent/正则表达式转NFA的代码实现.md",
+    "Permanent/正则表达式与正则文法的相互转换方法.md",
+    "Permanent/语义动作.md",
+    "Permanent/语法制导翻译的递归下降.md",
+    "Permanent/语法制导翻译的代码实现.md",
+    "Permanent/语法制导翻译的LR方式.md",
+    "Permanent/语法制导翻译.md",
+    "Permanent/语法树.md",
+    "Permanent/用做控制语句中条件表达式的翻译.md",
+    "Permanent/用关系代数表达查询问题.md",
+    "Attachment/Pasted image 20260708172535.png",
+    "Attachment/Pasted image 20260708172452.png",
+    "Attachment/Pasted image 20260704220721.png",
+    "用关系代数表达查询问题.md.tmp.28916.431a2bedb3da",
+    "银行家算法.md.tmp.58076.ee0bc4990f9f",
+    "Attachment/Pasted image 20260704220718.png",
+    "Attachment/Pasted image 20260704220620.png",
+    "Attachment/Pasted image 20260704162418.png",
+    "Attachment/Pasted image 20260704160345.png",
+    "Attachment/Pasted image 20260704160250.png",
+    "Attachment/Pasted image 20260704160133.png",
+    "Attachment/Pasted image 20260704154438.png",
+    "循环语句的翻译.md.tmp.60060.770480054d21",
+    "算数表达式的翻译.md.tmp.60060.480e1cf15154",
+    "逻辑表达式的翻译.md.tmp.60060.717247713b2d",
+    "逻辑表达式的翻译.md.tmp.60060.4eb6b0e9ea68",
+    "循环语句的翻译.md.tmp.60060.c2a2e83d97d5",
+    "算数表达式的翻译.md.tmp.60060.9740fd068692",
+    "赋值语句的翻译.md.tmp.60060.ae41943fe893",
+    "语法制导翻译的LR方式.md.tmp.60060.016913ccd20b",
     "未命名.canvas",
-    "README.en.md",
-    "2号测试.md",
-    "TEXT.md",
-    "README.md",
-    "Excalidraw/Drawing 2026-03-04 16.47.16.excalidraw.md"
+    "未命名 1.canvas"
   ]
 }

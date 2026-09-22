@@ -1,0 +1,24 @@
+{
+  "id": "conv-1783058792973-46zo3n0ah",
+  "providerId": "claude",
+  "title": "Implement LR data structure framework",
+  "titleGenerationStatus": "success",
+  "createdAt": 1783058792973,
+  "updatedAt": 1783144019521,
+  "lastResponseAt": 1783064622071,
+  "sessionId": "113b738a-e967-403c-80ea-90feb4c4638a",
+  "providerState": {
+    "providerSessionId": "113b738a-e967-403c-80ea-90feb4c4638a"
+  },
+  "currentNote": "语法制导翻译的LR方式.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 64,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 121728,
+    "contextWindow": 200000,
+    "contextTokens": 121792,
+    "percentage": 61,
+    "contextWindowIsAuthoritative": true
+  }
+}

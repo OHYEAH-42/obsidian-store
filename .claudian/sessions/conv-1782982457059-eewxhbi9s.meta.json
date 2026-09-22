@@ -1,0 +1,24 @@
+{
+  "id": "conv-1782982457059-eewxhbi9s",
+  "providerId": "claude",
+  "title": "Implement symbol table search and register func...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1782982457059,
+  "updatedAt": 1782982725492,
+  "lastResponseAt": 1782982725492,
+  "sessionId": "748af0e8-4065-46dd-a9cf-68b3fa958107",
+  "providerState": {
+    "providerSessionId": "748af0e8-4065-46dd-a9cf-68b3fa958107"
+  },
+  "currentNote": "Permanent/符号表.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 4455,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 24960,
+    "contextWindow": 200000,
+    "contextTokens": 29415,
+    "percentage": 15,
+    "contextWindowIsAuthoritative": true
+  }
+}

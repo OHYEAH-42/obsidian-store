@@ -1,0 +1,24 @@
+{
+  "id": "conv-1783071536212-l6n232ayq",
+  "providerId": "claude",
+  "title": "Complete shared virtual async notes with attrib...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1783071536213,
+  "updatedAt": 1783142435919,
+  "lastResponseAt": 1783083236861,
+  "sessionId": "f20a225c-efba-412d-8b24-a43fb9c306bb",
+  "providerState": {
+    "providerSessionId": "f20a225c-efba-412d-8b24-a43fb9c306bb"
+  },
+  "currentNote": "Permanent/操作系统.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 1557,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 51456,
+    "contextWindow": 200000,
+    "contextTokens": 53013,
+    "percentage": 27,
+    "contextWindowIsAuthoritative": true
+  }
+}

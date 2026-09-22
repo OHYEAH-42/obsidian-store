@@ -1,0 +1,24 @@
+{
+  "id": "conv-1783319940565-ww5go92cz",
+  "providerId": "claude",
+  "title": "Implement recursive descent parser",
+  "titleGenerationStatus": "success",
+  "createdAt": 1783319940566,
+  "updatedAt": 1783340713991,
+  "lastResponseAt": 1783320576432,
+  "sessionId": "59d51280-385e-4561-ad6d-db48c7c3394d",
+  "providerState": {
+    "providerSessionId": "59d51280-385e-4561-ad6d-db48c7c3394d"
+  },
+  "currentNote": "Permanent/递归下降算法.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 57,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 37760,
+    "contextWindow": 200000,
+    "contextTokens": 37817,
+    "percentage": 19,
+    "contextWindowIsAuthoritative": true
+  }
+}

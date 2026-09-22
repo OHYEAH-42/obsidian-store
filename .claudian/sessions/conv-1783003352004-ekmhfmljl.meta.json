@@ -1,0 +1,24 @@
+{
+  "id": "conv-1783003352004-ekmhfmljl",
+  "providerId": "claude",
+  "title": "Explain ability to read images",
+  "titleGenerationStatus": "success",
+  "createdAt": 1783003352004,
+  "updatedAt": 1783046869552,
+  "lastResponseAt": 1783003375599,
+  "sessionId": "de5b2a66-b92f-4cb4-8a5f-112e7e86fe59",
+  "providerState": {
+    "providerSessionId": "de5b2a66-b92f-4cb4-8a5f-112e7e86fe59"
+  },
+  "currentNote": "条件判断语句的翻译.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 20,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 20608,
+    "contextWindow": 200000,
+    "contextTokens": 20628,
+    "percentage": 10,
+    "contextWindowIsAuthoritative": true
+  }
+}

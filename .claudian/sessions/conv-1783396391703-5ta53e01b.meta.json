@@ -1,0 +1,24 @@
+{
+  "id": "conv-1783396391703-5ta53e01b",
+  "providerId": "claude",
+  "title": "Analyze SLR(1) shift-reduce conflict",
+  "titleGenerationStatus": "success",
+  "createdAt": 1783396391703,
+  "updatedAt": 1783405597651,
+  "lastResponseAt": 1783396562962,
+  "sessionId": "6339c2cf-7ff0-469b-9f0e-d33adc570a4c",
+  "providerState": {
+    "providerSessionId": "6339c2cf-7ff0-469b-9f0e-d33adc570a4c"
+  },
+  "currentNote": "Permanent/LR系列文法判断算法.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 130,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 37632,
+    "contextWindow": 200000,
+    "contextTokens": 37762,
+    "percentage": 19,
+    "contextWindowIsAuthoritative": true
+  }
+}

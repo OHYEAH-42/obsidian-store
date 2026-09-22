@@ -1,0 +1,24 @@
+{
+  "id": "conv-1783170592049-5lj0negvp",
+  "providerId": "claude",
+  "title": "Explain PV operations in OS",
+  "titleGenerationStatus": "success",
+  "createdAt": 1783170592049,
+  "updatedAt": 1783172181527,
+  "lastResponseAt": 1783170604718,
+  "sessionId": "7d8bced4-812b-44f7-b105-332563dfc336",
+  "providerState": {
+    "providerSessionId": "7d8bced4-812b-44f7-b105-332563dfc336"
+  },
+  "currentNote": "Permanent/操作系统.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 747,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 19328,
+    "contextWindow": 200000,
+    "contextTokens": 20075,
+    "percentage": 10,
+    "contextWindowIsAuthoritative": true
+  }
+}

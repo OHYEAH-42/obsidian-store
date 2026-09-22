@@ -1,0 +1,23 @@
+{
+  "id": "conv-1783147811483-br7zfuavf",
+  "providerId": "claude",
+  "title": "Analyze CRustLexer keyword detection",
+  "titleGenerationStatus": "success",
+  "createdAt": 1783147811483,
+  "updatedAt": 1783151570358,
+  "lastResponseAt": 1783148005167,
+  "sessionId": "d582c1a3-4c6b-4859-971f-0d6b8f701a7a",
+  "providerState": {
+    "providerSessionId": "d582c1a3-4c6b-4859-971f-0d6b8f701a7a"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 3609,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 35584,
+    "contextWindow": 200000,
+    "contextTokens": 39193,
+    "percentage": 20,
+    "contextWindowIsAuthoritative": true
+  }
+}

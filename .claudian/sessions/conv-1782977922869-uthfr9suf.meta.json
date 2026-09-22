@@ -1,0 +1,24 @@
+{
+  "id": "conv-1782977922869-uthfr9suf",
+  "providerId": "claude",
+  "title": "Complete arithmetic expression grammar",
+  "titleGenerationStatus": "success",
+  "createdAt": 1782977922869,
+  "updatedAt": 1782982437151,
+  "lastResponseAt": 1782978585987,
+  "sessionId": "2ebaabe7-34b9-4cc2-973e-3f3ddca7155e",
+  "providerState": {
+    "providerSessionId": "2ebaabe7-34b9-4cc2-973e-3f3ddca7155e"
+  },
+  "currentNote": "算数表达式的翻译.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 72,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 35456,
+    "contextWindow": 200000,
+    "contextTokens": 35528,
+    "percentage": 18,
+    "contextWindowIsAuthoritative": true
+  }
+}

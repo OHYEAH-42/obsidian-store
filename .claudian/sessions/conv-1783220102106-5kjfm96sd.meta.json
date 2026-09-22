@@ -1,0 +1,24 @@
+{
+  "id": "conv-1783220102106-5kjfm96sd",
+  "providerId": "claude",
+  "title": "Analyze privilege comparison in NFA diagram",
+  "titleGenerationStatus": "success",
+  "createdAt": 1783220102107,
+  "updatedAt": 1783226199156,
+  "lastResponseAt": 1783222280798,
+  "sessionId": "994da869-e491-4c2b-bc71-6d048025b879",
+  "providerState": {
+    "providerSessionId": "994da869-e491-4c2b-bc71-6d048025b879"
+  },
+  "currentNote": "正则表达式转NFA的代码实现.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 757,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 29824,
+    "contextWindow": 200000,
+    "contextTokens": 30581,
+    "percentage": 15,
+    "contextWindowIsAuthoritative": true
+  }
+}

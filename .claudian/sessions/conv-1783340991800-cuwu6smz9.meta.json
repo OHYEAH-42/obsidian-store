@@ -1,0 +1,24 @@
+{
+  "id": "conv-1783340991800-cuwu6smz9",
+  "providerId": "claude",
+  "title": "Explain mutex concept",
+  "titleGenerationStatus": "success",
+  "createdAt": 1783340991801,
+  "updatedAt": 1783396361432,
+  "lastResponseAt": 1783348196115,
+  "sessionId": "98ed5939-1847-483c-a450-ebe7d755e2ad",
+  "providerState": {
+    "providerSessionId": "98ed5939-1847-483c-a450-ebe7d755e2ad"
+  },
+  "currentNote": "PV操作.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 2730,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 37120,
+    "contextWindow": 200000,
+    "contextTokens": 39850,
+    "percentage": 20,
+    "contextWindowIsAuthoritative": true
+  }
+}

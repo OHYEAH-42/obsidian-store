@@ -1,0 +1,24 @@
+{
+  "id": "conv-1782975120074-4zlo1mn2j",
+  "providerId": "claude",
+  "title": "Explain semantic action",
+  "titleGenerationStatus": "success",
+  "createdAt": 1782975120074,
+  "updatedAt": 1782977909185,
+  "lastResponseAt": 1782975233249,
+  "sessionId": "27997396-c3be-49e4-a4c7-cad99812d3c9",
+  "providerState": {
+    "providerSessionId": "27997396-c3be-49e4-a4c7-cad99812d3c9"
+  },
+  "currentNote": "Permanent/语义分析.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 455,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 32256,
+    "contextWindow": 200000,
+    "contextTokens": 32711,
+    "percentage": 16,
+    "contextWindowIsAuthoritative": true
+  }
+}

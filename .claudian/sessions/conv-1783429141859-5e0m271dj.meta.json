@@ -1,0 +1,24 @@
+{
+  "id": "conv-1783429141859-5e0m271dj",
+  "providerId": "claude",
+  "title": "Learn SQL with SPJ database exercises",
+  "titleGenerationStatus": "success",
+  "createdAt": 1783429141859,
+  "updatedAt": 1783435560749,
+  "lastResponseAt": 1783434882100,
+  "sessionId": "21469bfa-e6f9-465d-a504-bc325e16d626",
+  "providerState": {
+    "providerSessionId": "21469bfa-e6f9-465d-a504-bc325e16d626"
+  },
+  "currentNote": "SQL语句.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 805,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 43648,
+    "contextWindow": 200000,
+    "contextTokens": 44453,
+    "percentage": 22,
+    "contextWindowIsAuthoritative": true
+  }
+}

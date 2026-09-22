@@ -1,0 +1,24 @@
+{
+  "id": "conv-1783051101658-ckcwndezj",
+  "providerId": "claude",
+  "title": "Review data structure completeness",
+  "titleGenerationStatus": "success",
+  "createdAt": 1783051101658,
+  "updatedAt": 1783058742454,
+  "lastResponseAt": 1783051601829,
+  "sessionId": "fdd69fc4-970e-4cc6-a185-db15c7ce7d0f",
+  "providerState": {
+    "providerSessionId": "fdd69fc4-970e-4cc6-a185-db15c7ce7d0f"
+  },
+  "currentNote": "Permanent/LR.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 56,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 31872,
+    "contextWindow": 200000,
+    "contextTokens": 31928,
+    "percentage": 16,
+    "contextWindowIsAuthoritative": true
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "conv-1783172187634-xc9rshye9",
+  "providerId": "claude",
+  "title": "Complete this note",
+  "titleGenerationStatus": "success",
+  "createdAt": 1783172187634,
+  "updatedAt": 1783172458836,
+  "lastResponseAt": 1783172224955,
+  "sessionId": "3833c122-24d4-49ce-abaa-ef851e9ca5d5",
+  "providerState": {
+    "providerSessionId": "3833c122-24d4-49ce-abaa-ef851e9ca5d5"
+  },
+  "currentNote": "PV操作.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 158,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 22528,
+    "contextWindow": 200000,
+    "contextTokens": 22686,
+    "percentage": 11,
+    "contextWindowIsAuthoritative": true
+  }
+}

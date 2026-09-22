@@ -1,0 +1,24 @@
+{
+  "id": "conv-1783175085277-l0pzy3t9b",
+  "providerId": "claude",
+  "title": "Complete the notes",
+  "titleGenerationStatus": "success",
+  "createdAt": 1783175085277,
+  "updatedAt": 1783220072399,
+  "lastResponseAt": 1783175273884,
+  "sessionId": "0fa7f558-9a58-4e41-a7af-8aaa10d02de1",
+  "providerState": {
+    "providerSessionId": "0fa7f558-9a58-4e41-a7af-8aaa10d02de1"
+  },
+  "currentNote": "死锁.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 2264,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 24320,
+    "contextWindow": 200000,
+    "contextTokens": 26584,
+    "percentage": 13,
+    "contextWindowIsAuthoritative": true
+  }
+}

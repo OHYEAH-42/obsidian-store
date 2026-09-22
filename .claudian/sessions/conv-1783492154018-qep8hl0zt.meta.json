@@ -1,0 +1,24 @@
+{
+  "id": "conv-1783492154018-qep8hl0zt",
+  "providerId": "claude",
+  "title": "Clarify left factoring in grammar",
+  "titleGenerationStatus": "success",
+  "createdAt": 1783492154019,
+  "updatedAt": 1783499756679,
+  "lastResponseAt": 1783494600247,
+  "sessionId": "6a0b8819-ba07-40a0-a730-2b8643f3a2b2",
+  "providerState": {
+    "providerSessionId": "6a0b8819-ba07-40a0-a730-2b8643f3a2b2"
+  },
+  "currentNote": "Permanent/LL(1).md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 184,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 25088,
+    "contextWindow": 200000,
+    "contextTokens": 25272,
+    "percentage": 13,
+    "contextWindowIsAuthoritative": true
+  }
+}
