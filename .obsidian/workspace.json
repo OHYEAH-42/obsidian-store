@@ -23,13 +23,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "损失函数.md",
+                "file": "似然.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "损失函数"
+              "title": "似然"
             }
           }
         ],
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "损失函数.md",
+                "file": "似然.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
@@ -215,11 +215,16 @@
   },
   "active": "e8b4e647537c0a3a",
   "lastOpenFiles": [
+    "概率与似然的区别.md",
+    "似然.md",
+    "最大似然估计.md",
+    "损失函数.md",
+    "负对数似然.md",
+    "对数似然.md",
     "激活函数.md",
     "多层感知器.md",
     "前向传播.md",
     "权重.md",
-    "损失函数.md",
     "神经网络.md",
     "反向传播.md",
     "优化器.md",
@@ -236,11 +241,6 @@
     "Permanent/语义动作.md",
     "Permanent/语法制导翻译的递归下降.md",
     "Permanent/语法制导翻译的代码实现.md",
-    "Permanent/语法制导翻译的LR方式.md",
-    "Permanent/语法制导翻译.md",
-    "Permanent/语法树.md",
-    "Permanent/用做控制语句中条件表达式的翻译.md",
-    "Permanent/用关系代数表达查询问题.md",
     "Attachment/Pasted image 20260708172535.png",
     "Attachment/Pasted image 20260708172452.png",
     "Attachment/Pasted image 20260704220721.png",
