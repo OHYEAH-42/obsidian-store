@@ -21,15 +21,10 @@
             "id": "e8b4e647537c0a3a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "嵌入表.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "嵌入表"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
             }
           }
         ],
@@ -215,13 +210,18 @@
   },
   "active": "e8b4e647537c0a3a",
   "lastOpenFiles": [
-    "权重.md",
     "神经网络.md",
-    "神经元.md",
-    "似然.md",
-    "嵌入表.md",
-    "损失函数.md",
     "激活函数.md",
+    "神经元.md",
+    "学习笔记/数据库/数据库规范化理论（范式理论）.md",
+    "拟合.md",
+    "链式法则.md",
+    "过拟合.md",
+    "欠拟合.md",
+    "嵌入表.md",
+    "权重.md",
+    "似然.md",
+    "损失函数.md",
     "前向传播.md",
     "优化器.md",
     "最大似然估计.md",
@@ -233,14 +233,9 @@
     "反向传播.md",
     "梯度.md",
     "偏置.md",
-    "链式法则.md",
     "层.md",
     "AGENTS.md",
     "Permanent/子集和问题.md",
-    "Permanent/正则文法.md",
-    "Permanent/正则表达式转NFA的代码实现.md",
-    "Permanent/正则表达式与正则文法的相互转换方法.md",
-    "Permanent/语义动作.md",
     "Attachment/Pasted image 20260708172535.png",
     "Attachment/Pasted image 20260708172452.png",
     "Attachment/Pasted image 20260704220721.png",
