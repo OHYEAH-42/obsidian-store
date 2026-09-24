@@ -23,13 +23,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "损失函数.md",
+                "file": "嵌入表.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "损失函数"
+              "title": "嵌入表"
             }
           }
         ],
@@ -215,11 +215,14 @@
   },
   "active": "e8b4e647537c0a3a",
   "lastOpenFiles": [
+    "权重.md",
     "神经网络.md",
+    "神经元.md",
+    "似然.md",
+    "嵌入表.md",
+    "损失函数.md",
     "激活函数.md",
     "前向传播.md",
-    "似然.md",
-    "损失函数.md",
     "优化器.md",
     "最大似然估计.md",
     "独热编码.md",
@@ -227,10 +230,8 @@
     "负对数似然.md",
     "对数似然.md",
     "多层感知器.md",
-    "权重.md",
     "反向传播.md",
     "梯度.md",
-    "神经元.md",
     "偏置.md",
     "链式法则.md",
     "层.md",
@@ -240,7 +241,6 @@
     "Permanent/正则表达式转NFA的代码实现.md",
     "Permanent/正则表达式与正则文法的相互转换方法.md",
     "Permanent/语义动作.md",
-    "Permanent/语法制导翻译的递归下降.md",
     "Attachment/Pasted image 20260708172535.png",
     "Attachment/Pasted image 20260708172452.png",
     "Attachment/Pasted image 20260704220721.png",
