@@ -4,21 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7d07b2c1d93a10c3",
+        "id": "b9751963401a8655",
         "type": "tabs",
         "children": [
           {
-            "id": "bdfc47dfd14bfafc",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
-            }
-          },
-          {
-            "id": "e8b4e647537c0a3a",
+            "id": "edcc2b544cd3647b",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -27,8 +17,7 @@
               "title": "关系图谱"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -62,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:编译原理",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +76,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.5
+    "width": 296.5,
+    "collapsed": true
   },
   "right": {
     "id": "1d0959161e7ab159",
@@ -189,7 +179,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 401.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,34 +198,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e8b4e647537c0a3a",
+  "active": "edcc2b544cd3647b",
   "lastOpenFiles": [
-    "神经网络.md",
-    "激活函数.md",
-    "神经元.md",
-    "学习笔记/数据库/数据库规范化理论（范式理论）.md",
-    "拟合.md",
-    "链式法则.md",
-    "过拟合.md",
-    "欠拟合.md",
-    "嵌入表.md",
-    "权重.md",
-    "似然.md",
-    "损失函数.md",
-    "前向传播.md",
-    "优化器.md",
-    "最大似然估计.md",
-    "独热编码.md",
-    "概率与似然的区别.md",
-    "负对数似然.md",
-    "对数似然.md",
-    "多层感知器.md",
-    "反向传播.md",
-    "梯度.md",
-    "偏置.md",
-    "层.md",
-    "AGENTS.md",
-    "Permanent/子集和问题.md",
+    "学习笔记/编译原理/Stanford CS143 Compilers/Stanford CS143 Compilers.md",
+    "Permanent/最小-最大归一化.md",
+    "Permanent/最大似然估计.md",
+    "Permanent/正态分布.md",
+    "Permanent/预激活值.md",
+    "Permanent/优化器.md",
+    "Permanent/向量归一化.md",
+    "Permanent/线性层.md",
+    "Permanent/梯度.md",
+    "Permanent/损失函数.md",
+    "Permanent/似然.md",
+    "Permanent/神经元.md",
+    "Permanent/神经网络.md",
+    "Permanent/权重.md",
+    "Permanent/嵌入表.md",
+    "Permanent/欠拟合.md",
+    "Permanent/前向传播.md",
+    "Permanent/偏置.md",
+    "Permanent/批归一化.md",
+    "Permanent/拟合.md",
+    "Permanent/链式法则.md",
+    "Permanent/卷积层.md",
+    "Permanent/激活值.md",
+    "Permanent/激活函数.md",
+    "Permanent/过拟合.md",
+    "Permanent/归一化.md",
     "Attachment/Pasted image 20260708172535.png",
     "Attachment/Pasted image 20260708172452.png",
     "Attachment/Pasted image 20260704220721.png",
