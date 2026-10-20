@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "b9751963401a8655",
+        "id": "6f989efe52aa0b5d",
         "type": "tabs",
         "children": [
           {
-            "id": "edcc2b544cd3647b",
+            "id": "aa10e4e46b1848bf",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "markdown",
+              "state": {
+                "file": "Permanent/余弦衰减.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "余弦衰减"
             }
           }
         ]
@@ -72,7 +77,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -112,12 +118,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "龙书阅读.md",
+                "file": "Permanent/交叉熵损失.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "龙书阅读 的出链列表"
+              "title": "出链"
             }
           },
           {
@@ -190,42 +196,38 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "pdf-plus:PDF++: Toggle auto-copy": false,
-      "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false,
       "workspaces:管理工作区布局": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "edcc2b544cd3647b",
+  "active": "aa10e4e46b1848bf",
   "lastOpenFiles": [
-    "学习笔记/编译原理/Stanford CS143 Compilers/Stanford CS143 Compilers.md",
-    "Permanent/最小-最大归一化.md",
-    "Permanent/最大似然估计.md",
-    "Permanent/正态分布.md",
-    "Permanent/预激活值.md",
-    "Permanent/优化器.md",
-    "Permanent/向量归一化.md",
-    "Permanent/线性层.md",
-    "Permanent/梯度.md",
-    "Permanent/损失函数.md",
-    "Permanent/似然.md",
-    "Permanent/神经元.md",
-    "Permanent/神经网络.md",
-    "Permanent/权重.md",
-    "Permanent/嵌入表.md",
-    "Permanent/欠拟合.md",
-    "Permanent/前向传播.md",
-    "Permanent/偏置.md",
-    "Permanent/批归一化.md",
-    "Permanent/拟合.md",
-    "Permanent/链式法则.md",
-    "Permanent/卷积层.md",
-    "Permanent/激活值.md",
-    "Permanent/激活函数.md",
-    "Permanent/过拟合.md",
-    "Permanent/归一化.md",
+    "Permanent/学习率预热.md",
+    "Permanent/梯度裁剪.md",
+    "Permanent/L2范数.md",
+    "Permanent/范数.md",
+    "Permanent/Lasso回归.md",
+    "Permanent/传统机器学习.md",
+    "Permanent/岭回归.md",
+    "Permanent/正则化.md",
+    "Permanent/线性回归.md",
+    "Permanent/逻辑回归.md",
+    "Permanent/决策树模型.md",
+    "Permanent/梯度累积.md",
+    "Permanent/余弦衰减.md",
+    "Permanent/批量大小.md",
+    "Permanent/学习率调度.md",
+    "Permanent/学习率.md",
+    "Permanent/损失缩放.md",
+    "Permanent/自动混合精度.md",
+    "Permanent/PyTorch.md",
+    "Permanent/Dataset（PyTorch）.md",
+    "Permanent/训练集.md",
+    "学习笔记/操作系统/操作系统知识索引.md",
+    "Permanent/线程级并发.md",
+    "超线程.md",
+    "Permanent/Tensor Core.md",
+    "Permanent/计算图.md",
     "Attachment/Pasted image 20260708172535.png",
     "Attachment/Pasted image 20260708172452.png",
     "Attachment/Pasted image 20260704220721.png",
