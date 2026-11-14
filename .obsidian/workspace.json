@@ -11,15 +11,10 @@
             "id": "aa10e4e46b1848bf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Permanent/余弦衰减.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "余弦衰减"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
             }
           }
         ]
@@ -77,8 +72,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -185,7 +179,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 436.0770263671875
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,44 +196,44 @@
   },
   "active": "aa10e4e46b1848bf",
   "lastOpenFiles": [
-    "Permanent/学习率预热.md",
-    "Permanent/梯度裁剪.md",
-    "Permanent/L2范数.md",
-    "Permanent/范数.md",
-    "Permanent/Lasso回归.md",
-    "Permanent/传统机器学习.md",
-    "Permanent/岭回归.md",
-    "Permanent/正则化.md",
-    "Permanent/线性回归.md",
-    "Permanent/逻辑回归.md",
-    "Permanent/决策树模型.md",
-    "Permanent/梯度累积.md",
-    "Permanent/余弦衰减.md",
-    "Permanent/批量大小.md",
+    "Permanent/独热编码.md",
+    "Permanent/支持向量机.md",
+    "Permanent/线性可分.md",
+    "Permanent/感知器.md",
+    "Permanent/前馈神经网络.md",
+    "Permanent/多层感知器.md",
+    "Permanent/优化器.md",
+    "Permanent/小批量随机梯度下降.md",
+    "Permanent/梯度.md",
+    "Permanent/用户态.md",
+    "Permanent/用关系代数表达查询问题.md",
+    "Permanent/监督学习.md",
+    "Permanent/监督微调.md",
+    "Permanent/监督掩码.md",
+    "Permanent/机器学习.md",
+    "Permanent/后训练.md",
+    "Permanent/基于人类反馈的强化学习.md",
+    "Permanent/循环神经网络.md",
+    "Permanent/特征.md",
+    "Permanent/LLM的模型训练.md",
+    "Permanent/大语言模型.md",
+    "Permanent/模型训练.md",
+    "Permanent/语言模型.md",
+    "Permanent/预训练.md",
+    "Weight Decay.md",
     "Permanent/学习率调度.md",
-    "Permanent/学习率.md",
-    "Permanent/损失缩放.md",
-    "Permanent/自动混合精度.md",
-    "Permanent/PyTorch.md",
-    "Permanent/Dataset（PyTorch）.md",
-    "Permanent/训练集.md",
-    "学习笔记/操作系统/操作系统知识索引.md",
-    "Permanent/线程级并发.md",
-    "超线程.md",
-    "Permanent/Tensor Core.md",
-    "Permanent/计算图.md",
+    "Attachment/Pasted image 20261026205828.png",
+    "Attachment/Pasted image 20261026205747.png",
+    "Attachment/Pasted image 20261026205541.png",
+    "Attachment/Pasted image 20261024142559.png",
+    "Attachment/Pasted image 20261023190137.png",
+    "Attachment/Pasted image 20261023183637.png",
+    "Attachment/Pasted image 20261023183408.png",
     "Attachment/Pasted image 20260708172535.png",
     "Attachment/Pasted image 20260708172452.png",
     "Attachment/Pasted image 20260704220721.png",
     "用关系代数表达查询问题.md.tmp.28916.431a2bedb3da",
     "银行家算法.md.tmp.58076.ee0bc4990f9f",
-    "Attachment/Pasted image 20260704220718.png",
-    "Attachment/Pasted image 20260704220620.png",
-    "Attachment/Pasted image 20260704162418.png",
-    "Attachment/Pasted image 20260704160345.png",
-    "Attachment/Pasted image 20260704160250.png",
-    "Attachment/Pasted image 20260704160133.png",
-    "Attachment/Pasted image 20260704154438.png",
     "循环语句的翻译.md.tmp.60060.770480054d21",
     "算数表达式的翻译.md.tmp.60060.480e1cf15154",
     "逻辑表达式的翻译.md.tmp.60060.717247713b2d",
