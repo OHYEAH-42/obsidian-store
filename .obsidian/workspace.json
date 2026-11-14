@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "6f989efe52aa0b5d",
+        "id": "00f5333abe4b7490",
         "type": "tabs",
         "children": [
           {
-            "id": "aa10e4e46b1848bf",
+            "id": "01bf78405f011e74",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "markdown",
+              "state": {
+                "file": "学习笔记/Vim/Vim.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Vim"
             }
           }
         ]
@@ -76,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.5,
-    "collapsed": true
+    "width": 296.5
   },
   "right": {
     "id": "1d0959161e7ab159",
@@ -194,8 +198,30 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aa10e4e46b1848bf",
+  "active": "01bf78405f011e74",
   "lastOpenFiles": [
+    "学习笔记/Vim/Obsidian 的 Vim 插件设置配置全流程 -- 脱离鼠标拥抱 Vim 神教.md",
+    "学习笔记/Vim/编辑器 (Vim) · the missing semester of your cs education.md",
+    "学习笔记/Python/CS61A/CS61A.md",
+    "学习笔记/MIT-Missing-Semester/MIT-Missing-Semester.md",
+    "学习笔记/MIT-Missing-Semester/命令行环境2026 · the missing semester of your cs education.md",
+    "学习笔记/MIT-Missing-Semester/命令行环境2020 · the missing semester of your cs education.md",
+    "学习笔记/数据库/CMU 15-445_Database Systems/CMU 15-445_ Database Systems - CS 自学指南.md",
+    "学习笔记/数据库/数据库规范化理论（范式理论）.md",
+    "学习笔记/计算机系统基础/CMU 15-213_ CSAPP - CS 自学指南.md",
+    "学习笔记/操作系统/操作系统知识索引.md",
+    "学习笔记/操作系统/NJU OS_ Operating System Design and Implementation - CS 自学指南.md",
+    "学习笔记/编译原理/Stanford CS143 Compilers/Stanford CS143 Compilers.md",
+    "Attachment/Pasted image 20260521150328.png",
+    "Attachment/Pasted image 20260519202425.png",
+    "Attachment/Pasted image 20260518161449.png",
+    "Attachment/Pasted image 20260513154114.png",
+    "Attachment/Pasted image 20260414230658.png",
+    "超线程.md",
+    "AGENTS.md",
+    "Weight Decay.md",
+    "不纯度.md",
+    "Obisidian/Vim command.md",
     "Permanent/独热编码.md",
     "Permanent/支持向量机.md",
     "Permanent/线性可分.md",
@@ -205,33 +231,11 @@
     "Permanent/优化器.md",
     "Permanent/小批量随机梯度下降.md",
     "Permanent/梯度.md",
-    "Permanent/用户态.md",
-    "Permanent/用关系代数表达查询问题.md",
-    "Permanent/监督学习.md",
-    "Permanent/监督微调.md",
-    "Permanent/监督掩码.md",
-    "Permanent/机器学习.md",
-    "Permanent/后训练.md",
-    "Permanent/基于人类反馈的强化学习.md",
-    "Permanent/循环神经网络.md",
-    "Permanent/特征.md",
-    "Permanent/LLM的模型训练.md",
-    "Permanent/大语言模型.md",
-    "Permanent/模型训练.md",
-    "Permanent/语言模型.md",
-    "Permanent/预训练.md",
-    "Weight Decay.md",
-    "Permanent/学习率调度.md",
     "Attachment/Pasted image 20261026205828.png",
     "Attachment/Pasted image 20261026205747.png",
     "Attachment/Pasted image 20261026205541.png",
     "Attachment/Pasted image 20261024142559.png",
     "Attachment/Pasted image 20261023190137.png",
-    "Attachment/Pasted image 20261023183637.png",
-    "Attachment/Pasted image 20261023183408.png",
-    "Attachment/Pasted image 20260708172535.png",
-    "Attachment/Pasted image 20260708172452.png",
-    "Attachment/Pasted image 20260704220721.png",
     "用关系代数表达查询问题.md.tmp.28916.431a2bedb3da",
     "银行家算法.md.tmp.58076.ee0bc4990f9f",
     "循环语句的翻译.md.tmp.60060.770480054d21",
