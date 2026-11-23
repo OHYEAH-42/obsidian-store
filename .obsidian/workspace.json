@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Permanent/两角和差公式.md",
+                "file": "学习笔记/考研数学/考研高数知识索引.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "两角和差公式"
+              "title": "考研高数知识索引"
             }
           }
         ]
@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:高等数学",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -200,43 +201,43 @@
   },
   "active": "21988109438045db",
   "lastOpenFiles": [
-    "学习笔记/考研数学/三角函数公式.md",
-    "Permanent/三角函数.md",
-    "Permanent/同角三角函数基本关系.md",
-    "Permanent/反三角函数.md",
-    "Permanent/反函数.md",
-    "学习笔记/数据库/数据库规范化理论（范式理论）.md",
-    "Permanent/二倍角公式.md",
-    "Permanent/两角和差公式.md",
-    "Permanent/辅助角公式.md",
-    "Permanent/半角与降幂公式.md",
-    "Permanent/诱导公式.md",
-    "Permanent/和差化积.md",
-    "Permanent/积化和差.md",
+    "Permanent/等价无穷小.md",
+    "Permanent/极限的四则运算.md",
+    "Permanent/函数极限.md",
+    "学习笔记/考研数学/极限的运算方法.md",
+    "Permanent/夹逼定理.md",
+    "Permanent/泰勒公式.md",
+    "Permanent/洛必达法则.md",
+    "Attachment/夹逼定理的上下界.png",
     "Permanent/函数.md",
-    "Permanent/偶函数.md",
-    "学习笔记/考研数学/考研高数知识索引.md",
     "Permanent/奇函数.md",
-    "Permanent/二次函数根的分布.md",
-    "Permanent/柯西不等式.md",
+    "Permanent/偶函数.md",
+    "Permanent/多值函数.md",
     "Permanent/三角不等式.md",
-    "学习笔记/数据库/CMU 15-445_Database Systems/CMU 15-445_ Database Systems - CS 自学指南.md",
+    "学习笔记/考研数学/三角函数公式.md",
     "Permanent/均值不等式.md",
-    "Permanent/几何平均数.md",
-    "Permanent/调和平均数.md",
-    "Permanent/韦达定理.md",
-    "Permanent/一元n次方程.md",
+    "Permanent/指数函数的切线不等式.md",
+    "学习笔记/考研数学/考研高数知识索引.md",
+    "Permanent/AdaGrad.md",
+    "Permanent/无穷小量.md",
+    "Permanent/反双曲正弦函数.md",
+    "Permanent/函数的周期性.md",
+    "Permanent/函数的单调性.md",
+    "Permanent/函数的有界性.md",
+    "Attachment/正弦函数的四种特性.png",
+    "Permanent/隐函数.md",
+    "Attachment/单位圆的隐函数分支.png",
+    "Permanent/复合函数.md",
+    "Attachment/复合顺序与函数图像.png",
+    "学习笔记/考研数学/重要基本函数.md",
+    "Permanent/双曲余弦函数.md",
+    "Attachment/双曲余弦函数图像.png",
+    "Attachment/双曲正弦与反双曲正弦.png",
+    "Attachment/极坐标示意图.svg",
     "学习笔记/考研数学",
     "Attachment/Pasted image 20260521150328.png",
     "Attachment/Pasted image 20260519202425.png",
     "Attachment/Pasted image 20260518161449.png",
-    "Attachment/Pasted image 20260513154114.png",
-    "Attachment/Pasted image 20260414230658.png",
-    "Attachment/Pasted image 20261026205828.png",
-    "Attachment/Pasted image 20261026205747.png",
-    "Attachment/Pasted image 20261026205541.png",
-    "Attachment/Pasted image 20261024142559.png",
-    "Attachment/Pasted image 20261023190137.png",
     "用关系代数表达查询问题.md.tmp.28916.431a2bedb3da",
     "银行家算法.md.tmp.58076.ee0bc4990f9f",
     "循环语句的翻译.md.tmp.60060.770480054d21",
