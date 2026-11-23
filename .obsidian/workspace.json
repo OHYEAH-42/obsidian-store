@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "学习笔记/考研数学/考研高数知识索引.md",
+                "file": "Permanent/函数.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "考研高数知识索引"
+              "title": "函数"
             }
           }
         ]
@@ -77,8 +77,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -201,36 +200,36 @@
   },
   "active": "21988109438045db",
   "lastOpenFiles": [
-    "Permanent/等价无穷小.md",
-    "Permanent/极限的四则运算.md",
     "Permanent/函数极限.md",
+    "Permanent/函数.md",
+    "Permanent/考研高数知识索引.md",
+    "Permanent/重要基本函数.md",
+    "Permanent/三角函数公式.md",
+    "Permanent/极限的运算方法.md",
+    "Permanent/函数的概念与特性.md",
+    "Permanent/常用命题及其形式.md",
     "学习笔记/考研数学/极限的运算方法.md",
-    "Permanent/夹逼定理.md",
     "Permanent/泰勒公式.md",
+    "Permanent/等价无穷小.md",
+    "学习笔记/考研数学/考研高数知识索引.md",
+    "学习笔记/考研数学/函数的概念与特性.md",
+    "学习笔记/考研数学/三角函数公式.md",
+    "学习笔记/考研数学/重要基本函数.md",
+    "学习笔记/考研数学/常用命题及其形式.md",
+    "Permanent/极限的四则运算.md",
+    "Permanent/夹逼定理.md",
     "Permanent/洛必达法则.md",
     "Attachment/夹逼定理的上下界.png",
-    "Permanent/函数.md",
     "Permanent/奇函数.md",
     "Permanent/偶函数.md",
     "Permanent/多值函数.md",
     "Permanent/三角不等式.md",
-    "学习笔记/考研数学/三角函数公式.md",
     "Permanent/均值不等式.md",
     "Permanent/指数函数的切线不等式.md",
-    "学习笔记/考研数学/考研高数知识索引.md",
     "Permanent/AdaGrad.md",
-    "Permanent/无穷小量.md",
-    "Permanent/反双曲正弦函数.md",
-    "Permanent/函数的周期性.md",
-    "Permanent/函数的单调性.md",
-    "Permanent/函数的有界性.md",
     "Attachment/正弦函数的四种特性.png",
-    "Permanent/隐函数.md",
     "Attachment/单位圆的隐函数分支.png",
-    "Permanent/复合函数.md",
     "Attachment/复合顺序与函数图像.png",
-    "学习笔记/考研数学/重要基本函数.md",
-    "Permanent/双曲余弦函数.md",
     "Attachment/双曲余弦函数图像.png",
     "Attachment/双曲正弦与反双曲正弦.png",
     "Attachment/极坐标示意图.svg",
